@@ -1,4 +1,4 @@
-# Loan Analysis - SQL Project
+# Customer Churn analysis - SQL Project
 
 ## 📊 Project Overview
 This project focuses on **Loan Data Analysis using SQL**.  
